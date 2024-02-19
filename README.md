@@ -24,7 +24,7 @@ ErrorHelper.cs | 错误提示类
 
 </div>
 
-- 程序界面及功能演示，版本v_1.5
+- 程序界面及功能演示，版本v_1.6
 <div align="center">
 <img src="docs/v_1.6.gif" width="700" >
 </div>
