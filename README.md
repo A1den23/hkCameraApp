@@ -1,6 +1,6 @@
 # hkCameraApp
 
-本项目基于海康工业相机的二次开发Winforms工程文件，使用C#语言编写，用于计算实时图像的对焦函数。
+本项目基于海康机器人工业相机的二次开发Winforms工程文件，相机型号：MV-CS050-10UC。使用C#语言编写，用于计算实时图像的对焦函数。
 - hkCameraApp基于海康机器人工业相机BasicDemo开发，基于.NET Framework 4.8框架，并使用C#语言开发的Windows窗体（WinForms）应用程序。应用程序控件和界面使用[Sunny UI](https://github.com/yhuse/SunnyUI)开源控件库，图像处理部分使用[OpenCV Sharp](https://github.com/shimat/opencvsharp)计算机视觉库进行计算。
 - 使用hkCameraAppSetup需要下载扩展Visual Studio Installer Projects
 - 海康机器人官方程序MVS下载链接：https://www.hikrobotics.com/cn/machinevision/service/download?module=0
