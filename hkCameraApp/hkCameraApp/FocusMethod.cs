@@ -20,7 +20,7 @@ namespace hkCameraApp
             return varMeasure;
         }
 
-        public static double Volt4(Mat grayImg, int m, int n)
+        public static double Vol4(Mat grayImg, int m, int n)
         {
             var upperImg = grayImg.SubMat(new Rect(0, 0, n, m - 1));
             var lowerImg = grayImg.SubMat(new Rect(0, 1, n, m - 1));
@@ -32,10 +32,10 @@ namespace hkCameraApp
 
             var sum2 = Cv2.Sum(upperImg2.Mul(lowerImg2)).Val0;
 
-            var volt4Measure = sum1 - sum2;
-            var volt4Normalized = volt4Measure / (m * n);
+            var vol4Measure = sum1 - sum2;
+            var vol4Normalized = vol4Measure / (m * n);
 
-            return volt4Normalized;
+            return vol4Normalized;
         }
 
         public static double TenGradient(Mat grayImg)

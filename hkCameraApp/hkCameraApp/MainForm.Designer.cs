@@ -868,7 +868,7 @@
             this.ShowDragStretch = true;
             this.ShowRadius = false;
             this.ShowTitleIcon = true;
-            this.Text = "hkCameraApp_v1.6";
+            this.Text = "hkCameraApp_v2.0";
             this.TitleFont = new System.Drawing.Font("微软雅黑", 8F);
             this.TitleHeight = 29;
             this.ZoomScaleDisabled = true;

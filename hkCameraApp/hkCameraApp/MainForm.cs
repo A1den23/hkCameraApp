@@ -83,7 +83,7 @@ namespace hkCameraApp
 
             // 添加计算方式选项
             CbCalculationMethod.Items.AddRange(new object[]
-                { "Variance", "Volt4", "TenGradient", "GaussianFilter", "Laplacian" });
+                { "Variance", "Vol4", "TenGradient", "GaussianFilter", "Laplacian" });
             CbCalculationMethod.SelectedIndex = 2;
         }
 
@@ -744,8 +744,8 @@ namespace hkCameraApp
                         case "Variance":
                             calculationResult = FocusMethod.Variance(grayDouble, m, n);
                             break;
-                        case "Volt4":
-                            calculationResult = FocusMethod.Volt4(grayDouble, m, n);
+                        case "Vol4":
+                            calculationResult = FocusMethod.Vol4(grayDouble, m, n);
                             break;
                         case "TenGradient":
                             calculationResult = FocusMethod.TenGradient(grayDouble);
