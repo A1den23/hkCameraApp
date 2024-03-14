@@ -11,7 +11,7 @@ C# 文件夹 | 描述
 BasicDemo | 海康相机官方原始示例
 DotNet | 库引用dll
 hkCameraAppSetup.msi | 程序安装包
-hkCameraApp_v1.6 | 工程文件夹
+hkCameraApp | 工程文件夹
 hkCameraAppSetup 文件夹 | 生成安装包项目（Debug下含有有安装包）
 hkCameraApp 文件夹 | Winform项目
 hkCameraApp.sln | Solution（解决方案），使用Visual Studio即可打开整个工程文件
