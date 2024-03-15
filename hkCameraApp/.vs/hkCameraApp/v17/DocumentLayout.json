@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Repo\\hkCameraApp\\hkCameraApp\\",
+  "WorkspaceRootPath": "D:\\hkCameraApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3C694340-0809-41A9-BA28-66EF4FBA6064}|hkCameraApp\\hkCameraApp.csproj|d:\\repo\\hkcameraapp\\hkcameraapp\\hkcameraapp\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3C694340-0809-41A9-BA28-66EF4FBA6064}|hkCameraApp\\hkCameraApp.csproj|d:\\hkcameraapp\\hkcameraapp\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3C694340-0809-41A9-BA28-66EF4FBA6064}|hkCameraApp\\hkCameraApp.csproj|solutionrelative:hkcameraapp\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3C694340-0809-41A9-BA28-66EF4FBA6064}|hkCameraApp\\hkCameraApp.csproj|D:\\Repo\\hkCameraApp\\hkCameraApp\\hkcameraapp\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{3C694340-0809-41A9-BA28-66EF4FBA6064}|hkCameraApp\\hkCameraApp.csproj|D:\\hkCameraApp\\hkcameraapp\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{3C694340-0809-41A9-BA28-66EF4FBA6064}|hkCameraApp\\hkCameraApp.csproj|solutionrelative:hkcameraapp\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3C694340-0809-41A9-BA28-66EF4FBA6064}|hkCameraApp\\hkCameraApp.csproj|D:\\Repo\\hkCameraApp\\hkCameraApp\\hkcameraapp\\focusmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3C694340-0809-41A9-BA28-66EF4FBA6064}|hkCameraApp\\hkCameraApp.csproj|D:\\hkCameraApp\\hkcameraapp\\focusmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3C694340-0809-41A9-BA28-66EF4FBA6064}|hkCameraApp\\hkCameraApp.csproj|solutionrelative:hkcameraapp\\focusmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -36,11 +36,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MainForm.cs",
-              "DocumentMoniker": "D:\\Repo\\hkCameraApp\\hkCameraApp\\hkCameraApp\\MainForm.cs",
+              "DocumentMoniker": "D:\\hkCameraApp\\hkCameraApp\\MainForm.cs",
               "RelativeDocumentMoniker": "hkCameraApp\\MainForm.cs",
-              "ToolTip": "D:\\Repo\\hkCameraApp\\hkCameraApp\\hkCameraApp\\MainForm.cs",
+              "ToolTip": "D:\\hkCameraApp\\hkCameraApp\\MainForm.cs",
               "RelativeToolTip": "hkCameraApp\\MainForm.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA2AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-14T06:05:10.696Z",
               "EditorCaption": ""
@@ -49,26 +49,24 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "MainForm.cs [\u8BBE\u8BA1]",
-              "DocumentMoniker": "D:\\Repo\\hkCameraApp\\hkCameraApp\\hkCameraApp\\MainForm.cs",
+              "DocumentMoniker": "D:\\hkCameraApp\\hkCameraApp\\MainForm.cs",
               "RelativeDocumentMoniker": "hkCameraApp\\MainForm.cs",
-              "ToolTip": "D:\\Repo\\hkCameraApp\\hkCameraApp\\hkCameraApp\\MainForm.cs [\u8BBE\u8BA1]",
+              "ToolTip": "D:\\hkCameraApp\\hkCameraApp\\MainForm.cs [\u8BBE\u8BA1]",
               "RelativeToolTip": "hkCameraApp\\MainForm.cs [\u8BBE\u8BA1]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-14T06:05:07.685Z",
-              "EditorCaption": " [\u8BBE\u8BA1]"
+              "WhenOpened": "2024-03-14T06:05:07.685Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "FocusMethod.cs",
-              "DocumentMoniker": "D:\\Repo\\hkCameraApp\\hkCameraApp\\hkCameraApp\\FocusMethod.cs",
+              "DocumentMoniker": "D:\\hkCameraApp\\hkCameraApp\\FocusMethod.cs",
               "RelativeDocumentMoniker": "hkCameraApp\\FocusMethod.cs",
-              "ToolTip": "D:\\Repo\\hkCameraApp\\hkCameraApp\\hkCameraApp\\FocusMethod.cs",
+              "ToolTip": "D:\\hkCameraApp\\hkCameraApp\\FocusMethod.cs",
               "RelativeToolTip": "hkCameraApp\\FocusMethod.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "ViewState": "AQIAABwAAACAZWZmZmYgwBUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-14T06:03:05.662Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-14T06:03:05.662Z"
             }
           ]
         }
